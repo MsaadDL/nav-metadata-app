@@ -74,13 +74,13 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### Website & Microsoft Store
 
 <p align="center">
-  <img src="screenshots/v2/website.png" alt="NAV Metadata website" width="800" />
+  <a href="https://navmetadata.com"><img src="screenshots/website.png" alt="NAV Metadata website" width="800" /></a>
 </p>
 
 <p align="center"><em>Official website — get the latest release or the open-source Community Edition</em></p>
 
 <p align="center">
-  <img src="screenshots/v2/microsoft-store.png" alt="NAV Metadata on Microsoft Store" width="800" />
+  <a href="https://navmetadata.com"><img src="screenshots/microsoft-store.png" alt="NAV Metadata on Microsoft Store" width="800" /></a>
 </p>
 
 <p align="center"><em>Available on the <a href="https://apps.microsoft.com/detail/9NXZ27WTB8BW?hl=en-us&gl=AE&ocid=pdpshare">Microsoft Store</a></em></p>
@@ -88,7 +88,7 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### Home
 
 <p align="center">
-  <img src="screenshots/v2/home.png" alt="NAV Metadata home screen" width="800" />
+  <img src="screenshots/home.png" alt="NAV Metadata home screen" width="800" />
 </p>
 
 <p align="center"><em>Clean start screen — connect to your NAV SQL Server database to begin</em></p>
@@ -96,7 +96,7 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### Connect to SQL Server
 
 <p align="center">
-  <img src="screenshots/v2/connection.png" alt="Connect to SQL Server dialog" width="800" />
+  <img src="screenshots/connect-sql-server.png" alt="Connect to SQL Server dialog" width="800" />
 </p>
 
 <p align="center"><em>Connect with Windows or SQL Server authentication and pick your NAV database</em></p>
@@ -104,7 +104,7 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### Browse objects
 
 <p align="center">
-  <img src="screenshots/v2/full-screen.png" alt="Browse NAV objects" width="800" />
+  <img src="screenshots/browse-objects.png" alt="Browse NAV objects" width="800" />
 </p>
 
 <p align="center"><em>Browse Tables, Pages, Reports, Queries, and more with fast filtering</em></p>
@@ -112,7 +112,7 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### Multi-select & export
 
 <p align="center">
-  <img src="screenshots/v2/Multiselect.png" alt="Multi-select and export objects" width="800" />
+  <img src="screenshots/multi-select-export.png" alt="Multi-select and export objects" width="800" />
 </p>
 
 <p align="center"><em>Select multiple objects and export as XML or AL</em></p>
@@ -120,7 +120,7 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### Metadata (XML)
 
 <p align="center">
-  <img src="screenshots/v2/xml.png" alt="View decompressed metadata XML" width="800" />
+  <img src="screenshots/metadata-xml.png" alt="View decompressed metadata XML" width="800" />
 </p>
 
 <p align="center"><em>Inspect decompressed Object Metadata XML with syntax highlighting</em></p>
@@ -128,7 +128,7 @@ A quick walkthrough of **NAV Metadata v2** — from download to browsing, export
 ### AL Code
 
 <p align="center">
-  <img src="screenshots/v2/al.png" alt="View AL code conversion" width="800" />
+  <img src="screenshots/al-code.png" alt="View AL code conversion" width="800" />
 </p>
 
 <p align="center"><em>Convert and preview metadata as AL code</em></p>
